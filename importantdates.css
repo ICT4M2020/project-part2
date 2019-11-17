@@ -3,6 +3,7 @@ body{
 }
 
 img {
+  margin-top: 10px;
   margin-left: 43%;
   box-sizing: border-box;
   display: inline;
