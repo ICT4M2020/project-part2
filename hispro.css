@@ -1,4 +1,5 @@
-.img {
+img {
+  margin-top: 10px;
   margin-left: 43%;
   box-sizing: border-box;
   display: inline;
@@ -96,9 +97,7 @@ li a:hover:not(.active) {
 background: -moz-linear-gradient(top, #CE67CA 0%, #5500A4 100%, #C59237 100%);
 background: -webkit-linear-gradient(top, #CE67CA 0%, #5500A4 100%, #C59237 100%);
 background: linear-gradient(to bottom, #CE67CA 0%, #5500A4 100%, #C59237 100%);
-  padding: 30px;
-  padding-top: 5px;
-  text-aling: center;
+  text-align: center;
 }
 a{
   color:white;
