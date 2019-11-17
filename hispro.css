@@ -95,6 +95,9 @@ padding-left: 50px;
   font-family: 'Montserrat', sans-serif;
   text-align: center;
 }
+.row{
+  margin-bottom: 50px;
+}
 li a:hover:not(.active) {
   background-color: #111;
 }
