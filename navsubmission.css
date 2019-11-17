@@ -13,10 +13,10 @@ img {
 .topnav {
   overflow: hidden;
   background-color: transparent;
-  padding-left: 20%;
+  padding-left: 15%;
   margin-top: 10px;
   margin-bottom: 10px;
-  font-family: Times New Roman;
+  font-family: 'Poppins', sans-serif;
 }
 
 /* Navigation links */
@@ -122,10 +122,11 @@ background: -moz-linear-gradient(top, #CE67CA 0%, #5500A4 100%, #C59237 100%);
 background: -webkit-linear-gradient(top, #CE67CA 0%, #5500A4 100%, #C59237 100%);
 background: linear-gradient(to bottom, #CE67CA 0%, #5500A4 100%, #C59237 100%);
   padding: 30px;
+  padding-top: 5px;
   text-align: center;
 }
 a{
-  color:white
+  color:white;
 }
  li:hover{
   text-decoration: underline;
