@@ -1,3 +1,7 @@
+body{
+  margin: 0;
+}
+
 img {
   margin-left: 43%;
   box-sizing: border-box;
@@ -18,7 +22,7 @@ padding-left: 50px;
 .topnav {
   overflow: hidden;
   background-color: transparent;
-  padding-left: 20%;
+  padding-left: 15%;
   margin-top: 10px;
   margin-bottom: 10px;
   font-family: 'Poppins', sans-serif;
