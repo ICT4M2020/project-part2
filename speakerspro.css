@@ -104,12 +104,12 @@ padding-left: 50px;
 .container {
   position: relative;
   width: 100%;
-  margin-bottom: 20px;
+  margin-bottom: 35px;
 }
 
 .image {
   display: block;
-  width: 70%;
+  width: 50%;
   height: auto;
 }
 
