@@ -114,6 +114,7 @@ background: -moz-linear-gradient(top, #CE67CA 0%, #5500A4 100%, #C59237 100%);
 background: -webkit-linear-gradient(top, #CE67CA 0%, #5500A4 100%, #C59237 100%);
 background: linear-gradient(to bottom, #CE67CA 0%, #5500A4 100%, #C59237 100%);
   text-align: center;
+  padding: 30px;
   padding-top: 5px;
 }
 a{
