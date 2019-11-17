@@ -95,11 +95,8 @@ padding-left: 50px;
   font-family: 'Montserrat', sans-serif;
   text-align: center;
 }
-
 section{
   padding: 30px;
-  padding-left: 10%;
-  padding-right: 10%;
 }
 .container {
   position: relative;
@@ -108,9 +105,10 @@ section{
 
 .image {
   display: block;
-  width: 270px;
+  width: 55%;
   height: auto;
-  padding-left: 38%;
+  padding-right: 40%;
+  padding-left: 0;
 }
 
 .overlay {
@@ -153,6 +151,7 @@ background: -webkit-linear-gradient(top, #CE67CA 0%, #5500A4 100%, #C59237 100%)
 background: linear-gradient(to bottom, #CE67CA 0%, #5500A4 100%, #C59237 100%);
   padding: 30px;
   padding-top: 5px;
+  text-align: center;
 }
 a{
   color:white
