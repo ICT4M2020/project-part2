@@ -6,7 +6,9 @@
   padding-left: 10%;
 
 }
-
+body{
+  margin: 0;
+}
 #bordergituh {
 border: 5px solid #e84855;
 border-radius: 35px 0px 35px 0px;
@@ -25,7 +27,7 @@ img {
 .topnav {
   overflow: hidden;
   background-color: transparent;
-  padding-left: 13%;
+  padding-left: 15%;
   margin-top: 10px;
   margin-bottom: 10px;
 }
@@ -259,6 +261,7 @@ background: -moz-linear-gradient(top, #CE67CA 0%, #5500A4 100%, #C59237 100%);
 background: -webkit-linear-gradient(top, #CE67CA 0%, #5500A4 100%, #C59237 100%);
 background: linear-gradient(to bottom, #CE67CA 0%, #5500A4 100%, #C59237 100%);
   padding: 30px;
+  padding-top: 5px;
 }
 a{
   color:white
