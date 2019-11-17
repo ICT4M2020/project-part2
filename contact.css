@@ -88,9 +88,11 @@ img {
   display: inline-flex;
 }
 h1{
-  margin: 0;
   background: transparent;
-  height: 10%;
+  padding-top: 40px;
+  padding-right: 50px;
+  padding-bottom: 20px;
+  padding-left: 50px;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
   font-size: 50px;
