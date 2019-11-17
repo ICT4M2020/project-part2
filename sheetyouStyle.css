@@ -308,7 +308,7 @@ p {
   box-shadow: 16px 0px 16px 0px rgba(0, 0, 0, 0.5);
   background-color: #34215b;
   width: 100%;
-  height: 70%;
+  height: auto;
   margin-top: 40px;
 }
 .announcement{
