@@ -8,6 +8,7 @@
 }
 body{
   margin: 0;
+  padding: 0;
 }
 #bordergituh {
 border: 5px solid #e84855;
@@ -16,6 +17,7 @@ margin-bottom: 18px;
 }
 
 img {
+  margin-top: 10px;
   margin-left: 43%;
   box-sizing: border-box;
   display: inline;
@@ -255,7 +257,6 @@ div[class*=container] {
 
 /* footer */
 .page-footer{
-  width: 100%;
   font-family: 'Montserrat', sans-serif;
   background: #CE67CA;
 background: -moz-linear-gradient(top, #CE67CA 0%, #5500A4 100%, #C59237 100%);
